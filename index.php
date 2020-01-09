@@ -28,7 +28,7 @@
  <?php
     $host = "<welloyappserver.database.windows.net>";
     $user = "<dicoding>";
-    $pass = "<Langitbiru%>";
+    $pass = "Langitbiru%";
     $db = "<dicodingDB>";
 
     try {
