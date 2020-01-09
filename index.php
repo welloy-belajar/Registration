@@ -26,10 +26,10 @@
        <input type="submit" name="load_data" value="Load Data" />
  </form>
  <?php
-    $host = "<welloyappserver.database.windows.net>";
-    $user = "<dicoding>";
+    $host = "welloyappserver.database.windows.net";
+    $user = "dicoding";
     $pass = "Langitbiru%";
-    $db = "<dicodingDB>";
+    $db = "dicodingDB";
 
     try {
         $conn = new PDO("sqlsrv:server = $host; Database = $db", $user, $pass);
