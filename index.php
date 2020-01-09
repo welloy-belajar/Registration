@@ -26,7 +26,7 @@
        <input type="submit" name="load_data" value="Load Data" />
  </form>
  <?php
-    $host = "<welloyappserver.database.windows.net>";
+    $host = "<104.43.15.0>";
     $user = "<dicoding>";
     $pass = "<Langitbiru%>";
     $db = "<dicodingDB>";
